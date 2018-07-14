@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TocuhIdPassword/Controller/AuthenticationVC.swift"
+            timestampString = "552993327.679383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TocuhIdPassword.AuthenticationVC.__deallocating_deinit"
+                  moduleName = "TocuhIdPassword"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linyiyan/Library/Autosave%20Information/TocuhIdPassword/TocuhIdPassword/Controller/AuthenticationVC.swift"
+                  timestampString = "552799076.26996"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TocuhIdPassword.AuthenticationVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TocuhIdPassword.AuthenticationVC"
+                  moduleName = "TocuhIdPassword"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linyiyan/Library/Autosave%20Information/TocuhIdPassword/TocuhIdPassword/Controller/AuthenticationVC.swift"
+                  timestampString = "552799076.272374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TocuhIdPassword.AuthenticationVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TocuhIdPassword.AuthenticationVC"
+                  moduleName = "TocuhIdPassword"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linyiyan/Library/Autosave%20Information/TocuhIdPassword/TocuhIdPassword/Controller/AuthenticationVC.swift"
+                  timestampString = "552799076.274525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TocuhIdPassword.AuthenticationVC.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;TocuhIdPassword.AuthenticationVC&gt;"
+                  moduleName = "TocuhIdPassword"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linyiyan/Library/Autosave%20Information/TocuhIdPassword/TocuhIdPassword/Controller/AuthenticationVC.swift"
+                  timestampString = "552799076.276276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TocuhIdPassword.AuthenticationVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;TocuhIdPassword.AuthenticationVC&gt;"
+                  moduleName = "TocuhIdPassword"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linyiyan/Library/Autosave%20Information/TocuhIdPassword/TocuhIdPassword/Controller/AuthenticationVC.swift"
+                  timestampString = "552799076.278343"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TocuhIdPassword/Controller/AuthenticationVC.swift"
+            timestampString = "552993327.679755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
