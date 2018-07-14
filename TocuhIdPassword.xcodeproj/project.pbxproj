@@ -7,21 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59F3D90B7C17DD93C02D8107 /* Pods_TocuhIdPassword.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5B314FF461F879AF67BE7BB /* Pods_TocuhIdPassword.framework */; };
+		EA03130E20F9F1EE009A763F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA03130D20F9F1EE009A763F /* Assets.xcassets */; };
+		EA68CBAD20F0F5CF004610FF /* AccountItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA68CBAC20F0F5CF004610FF /* AccountItem.swift */; };
+		EA93D5EE20F254BE0068890B /* AccountTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA93D5ED20F254BE0068890B /* AccountTableViewController.swift */; };
+		EA93D5F020F256080068890B /* EditTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA93D5EF20F256080068890B /* EditTableViewController.swift */; };
+		EA9A184820F45722000144F6 /* DetailsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9A184720F45722000144F6 /* DetailsTableViewController.swift */; };
+		EAD2E39020F31EBF00F05899 /* AccountTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD2E38F20F31EBF00F05899 /* AccountTableViewCell.swift */; };
 		EADBC27A20E1DF360000ABD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBC27920E1DF360000ABD6 /* AppDelegate.swift */; };
-		EADBC27C20E1DF360000ABD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBC27B20E1DF360000ABD6 /* ViewController.swift */; };
+		EADBC27C20E1DF360000ABD6 /* AuthenticationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBC27B20E1DF360000ABD6 /* AuthenticationVC.swift */; };
 		EADBC27F20E1DF360000ABD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EADBC27D20E1DF360000ABD6 /* Main.storyboard */; };
-		EADBC28120E1DF370000ABD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EADBC28020E1DF370000ABD6 /* Assets.xcassets */; };
 		EADBC28420E1DF370000ABD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EADBC28220E1DF370000ABD6 /* LaunchScreen.storyboard */; };
+		EADBC29220E1EDAB0000ABD6 /* RoundedOutlineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBC29120E1EDAB0000ABD6 /* RoundedOutlineView.swift */; };
+		EADBC2B320E262BB0000ABD6 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EADBC2B220E262BB0000ABD6 /* LocalAuthentication.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5B314FF461F879AF67BE7BB /* Pods_TocuhIdPassword.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TocuhIdPassword.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0066996CF37B1D0378639D5 /* Pods-TocuhIdPassword.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TocuhIdPassword.release.xcconfig"; path = "Pods/Target Support Files/Pods-TocuhIdPassword/Pods-TocuhIdPassword.release.xcconfig"; sourceTree = "<group>"; };
+		EA03130D20F9F1EE009A763F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EA68CBAC20F0F5CF004610FF /* AccountItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountItem.swift; sourceTree = "<group>"; };
+		EA93D5ED20F254BE0068890B /* AccountTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountTableViewController.swift; sourceTree = "<group>"; };
+		EA93D5EF20F256080068890B /* EditTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTableViewController.swift; sourceTree = "<group>"; };
+		EA9A184720F45722000144F6 /* DetailsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsTableViewController.swift; sourceTree = "<group>"; };
+		EAD2E38F20F31EBF00F05899 /* AccountTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountTableViewCell.swift; sourceTree = "<group>"; };
 		EADBC27620E1DF360000ABD6 /* TocuhIdPassword.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TocuhIdPassword.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EADBC27920E1DF360000ABD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EADBC27B20E1DF360000ABD6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EADBC27B20E1DF360000ABD6 /* AuthenticationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationVC.swift; sourceTree = "<group>"; };
 		EADBC27E20E1DF360000ABD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EADBC28020E1DF370000ABD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EADBC28320E1DF370000ABD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EADBC28520E1DF370000ABD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EADBC29120E1EDAB0000ABD6 /* RoundedOutlineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedOutlineView.swift; sourceTree = "<group>"; };
+		EADBC2B220E262BB0000ABD6 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
+		EE8FCA16E0A4AB3964BD8734 /* Pods-TocuhIdPassword.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TocuhIdPassword.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TocuhIdPassword/Pods-TocuhIdPassword.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +47,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EADBC2B320E262BB0000ABD6 /* LocalAuthentication.framework in Frameworks */,
+				59F3D90B7C17DD93C02D8107 /* Pods_TocuhIdPassword.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9E2528C3B48949E408D5EE02 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EE8FCA16E0A4AB3964BD8734 /* Pods-TocuhIdPassword.debug.xcconfig */,
+				B0066996CF37B1D0378639D5 /* Pods-TocuhIdPassword.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		EADBC26D20E1DF360000ABD6 = {
 			isa = PBXGroup;
 			children = (
 				EADBC27820E1DF360000ABD6 /* TocuhIdPassword */,
 				EADBC27720E1DF360000ABD6 /* Products */,
+				EADBC2B120E262BB0000ABD6 /* Frameworks */,
+				9E2528C3B48949E408D5EE02 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +85,53 @@
 		EADBC27820E1DF360000ABD6 /* TocuhIdPassword */ = {
 			isa = PBXGroup;
 			children = (
+				EADBC29020E1E0D40000ABD6 /* Model */,
+				EADBC28F20E1E0C50000ABD6 /* View */,
+				EADBC28E20E1E0A70000ABD6 /* Controller */,
 				EADBC27920E1DF360000ABD6 /* AppDelegate.swift */,
-				EADBC27B20E1DF360000ABD6 /* ViewController.swift */,
 				EADBC27D20E1DF360000ABD6 /* Main.storyboard */,
-				EADBC28020E1DF370000ABD6 /* Assets.xcassets */,
 				EADBC28220E1DF370000ABD6 /* LaunchScreen.storyboard */,
 				EADBC28520E1DF370000ABD6 /* Info.plist */,
 			);
 			path = TocuhIdPassword;
+			sourceTree = "<group>";
+		};
+		EADBC28E20E1E0A70000ABD6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EADBC27B20E1DF360000ABD6 /* AuthenticationVC.swift */,
+				EA93D5ED20F254BE0068890B /* AccountTableViewController.swift */,
+				EA93D5EF20F256080068890B /* EditTableViewController.swift */,
+				EAD2E38F20F31EBF00F05899 /* AccountTableViewCell.swift */,
+				EA03130D20F9F1EE009A763F /* Assets.xcassets */,
+				EA9A184720F45722000144F6 /* DetailsTableViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EADBC28F20E1E0C50000ABD6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EADBC29120E1EDAB0000ABD6 /* RoundedOutlineView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EADBC29020E1E0D40000ABD6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EA68CBAC20F0F5CF004610FF /* AccountItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EADBC2B120E262BB0000ABD6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EADBC2B220E262BB0000ABD6 /* LocalAuthentication.framework */,
+				A5B314FF461F879AF67BE7BB /* Pods_TocuhIdPassword.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +141,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EADBC28820E1DF370000ABD6 /* Build configuration list for PBXNativeTarget "TocuhIdPassword" */;
 			buildPhases = (
+				7DAD71FD876FA01508CA0CB6 /* [CP] Check Pods Manifest.lock */,
 				EADBC27220E1DF360000ABD6 /* Sources */,
 				EADBC27320E1DF360000ABD6 /* Frameworks */,
 				EADBC27420E1DF360000ABD6 /* Resources */,
+				9F5B5830BF34B3BCA2FAAC71 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -123,19 +195,64 @@
 			buildActionMask = 2147483647;
 			files = (
 				EADBC28420E1DF370000ABD6 /* LaunchScreen.storyboard in Resources */,
-				EADBC28120E1DF370000ABD6 /* Assets.xcassets in Resources */,
+				EA03130E20F9F1EE009A763F /* Assets.xcassets in Resources */,
 				EADBC27F20E1DF360000ABD6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		7DAD71FD876FA01508CA0CB6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TocuhIdPassword-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9F5B5830BF34B3BCA2FAAC71 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TocuhIdPassword/Pods-TocuhIdPassword-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/KeychainSwift/KeychainSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KeychainSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TocuhIdPassword/Pods-TocuhIdPassword-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		EADBC27220E1DF360000ABD6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EADBC27C20E1DF360000ABD6 /* ViewController.swift in Sources */,
+				EA9A184820F45722000144F6 /* DetailsTableViewController.swift in Sources */,
+				EADBC27C20E1DF360000ABD6 /* AuthenticationVC.swift in Sources */,
+				EA93D5F020F256080068890B /* EditTableViewController.swift in Sources */,
+				EA93D5EE20F254BE0068890B /* AccountTableViewController.swift in Sources */,
+				EA68CBAD20F0F5CF004610FF /* AccountItem.swift in Sources */,
+				EAD2E39020F31EBF00F05899 /* AccountTableViewCell.swift in Sources */,
+				EADBC29220E1EDAB0000ABD6 /* RoundedOutlineView.swift in Sources */,
 				EADBC27A20E1DF360000ABD6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -278,11 +395,13 @@
 		};
 		EADBC28920E1DF370000ABD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EE8FCA16E0A4AB3964BD8734 /* Pods-TocuhIdPassword.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z599PZ7MZ9;
 				INFOPLIST_FILE = TocuhIdPassword/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -296,11 +415,13 @@
 		};
 		EADBC28A20E1DF370000ABD6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B0066996CF37B1D0378639D5 /* Pods-TocuhIdPassword.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z599PZ7MZ9;
 				INFOPLIST_FILE = TocuhIdPassword/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
